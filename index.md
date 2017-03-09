@@ -7,6 +7,7 @@ body{
 background-color:grey;
 }
 header{
+text-align:center;
 font-size:30px;
 font-family:Helvetica;
 font-style:bold;
