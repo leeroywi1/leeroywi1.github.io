@@ -1,4 +1,3 @@
-<!Doctype Html>
 <html lang="en-US">
 <head>
 <title>Williams-Inc</title>
@@ -6,6 +5,11 @@
 <style>
 body{
 background-color:grey;
+}
+header{
+font-size:30px;
+font-family:Helvetica;
+font-style:bold;
 }
 </style>
 </head>
